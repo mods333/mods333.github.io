@@ -1,6 +1,6 @@
 title: Suhail Mohammed
 logo: /assets/img/logo.png
 description: Stay Humble
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
