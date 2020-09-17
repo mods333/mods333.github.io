@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -27,7 +28,8 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a> | 
+        <p class="view">
+          <a class="social-icon" href="{{ site.github.owner_url }} target = "_blank"><i class="fab fa-github"></i></a> | 
           <a href="https://scholar.google.com/citations?user=Z8wBBggAAAAJ&hl=en">Google Scholar</a> | 
           <a href="https://www.linkedin.com/in/mohammed-suhail-3653969a/">Linked In</a> |
           <a href="https://twitter.com/msuhail153">Twitter</a>
