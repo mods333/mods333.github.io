@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+# About Me
 
-I am a 1st year PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/).Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati.
+I am a 1st year PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/).Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly interset with structure prediction problem in computer vision and graph neural networks.
 
 # Publications
 
