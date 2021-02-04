@@ -3,4 +3,4 @@ logo: /assets/img/IMG_20200604_165454.jpg
 description: 
 show_downloads: False
 google_analytics:
-theme: jekyll-theme-minimal
+theme:  minimal-mistakes-jekyll
