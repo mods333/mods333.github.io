@@ -7,6 +7,11 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 # Publications
 
+* **Energy-Based Learning for Scene Graph Generation**\
+  __M. Suhail__, A. Mittal, B. Siddiquie, C. Broaddus, J. Eledath, G. Medioni and L. Sigal\
+  Accepted at Conference on Computer Vision and Pattern Recognition(CVPR), 2021.\
+  Paper and Code coming soon
+  
 * **Mixture Kernel Graph Attention Networks for Situation Recognition**\
   __M. Suhail__ and L. Sigal\
   IEEE/CVF International Conference on Computer Vision (ICCV), 2019.\
