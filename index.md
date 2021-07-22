@@ -15,7 +15,7 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 * **Segmentation-grounded Scene Graph Generation**  (<span style="color:green">*New!*</span>) \
   S. Khandelwal*, __M. Suhail*__, Leonid Sigal\
-  Accepted at IEEE/CVF International Conference on Computer Vision (ICCV), 2021 \
+  Accepted as oral at IEEE/CVF International Conference on Computer Vision (ICCV), 2021 \
   [Paper](https://arxiv.org/abs/2104.14207)
   
 * **Mixture Kernel Graph Attention Networks for Situation Recognition**\
