@@ -23,6 +23,18 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
   IEEE/CVF International Conference on Computer Vision (ICCV), 2019.\
   [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Suhail_Mixture-Kernel_Graph_Attention_Network_for_Situation_Recognition_ICCV_2019_paper.pdf) / [Blog](https://medium.com/@msuhail153/mixture-kernel-graph-attention-networks-for-situation-recognition-7ade50fd446)
 
+# Work Experience
+**[Google Research](https://ai.google/research/)** | New York, NY
+* (05/2021 - Current) <strong>Research Intern / Student Researcher</strong>
+  * Host: [Carlos Esteves](https://machc.github.io/) and [Ameesh Makadia](http://www.ameeshmakadia.com/)
+  * Working on a new neural rendering model.
+
+**[Amazon](https://www.amazon.com/)** | Seattle, WA
+* (05/2020 - 08/2020) <strong>Applied Scientist Intern</strong>
+  * Host: [Behjat Siddiquie](https://behjat.github.io/)
+  * Developed a novel energy based learning framerwork for scene graph generation. Work published at CVPR 2021.
+
+  
 
 # Blog Posts
 * [Understanding Variational Inference](https://medium.com/@msuhail153/understanding-variational-inference-ae119f9bc3ed)
