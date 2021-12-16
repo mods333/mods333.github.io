@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Comparsion</title>
+    <link rel="stylesheet" href="../assets/scripts/bulma.min.css">
+    <link rel="stylesheet" href="../assets/scripts/compare_app.css">
+    <script>
+      var app = {
+        "name": "Blender",
+        "owner": "NeRF's",
+        "zoombox": {
+          "desktop": {"size": '150px', "scale": "1.5"},
+          "tablet": {"size": '100px', "scale": "1.0"},
+          "phone": {"size": '150px', "scale": "1.5"}
+        },
+        "methods": ['Ground Truth','Ours', 'Mip-NeRF'],
+        "scenes": [
+          {
+            "name": "Materials",
+            "path": "images/materials/",
+            "images": ['000_gt.png','000_ours.png', '000_mip.png'],
+            "width": 800,
+            "height": 800,
+            "zoom": {
+              "ratio": .8,
+              "top": 543, 
+              "left": 456
+              }
+          },
+          {
+            "name": "drums",
+            "path": "images/drums/",
+            "images": ['000_gt.png','000_ours.png', '000_mip.png'],
+            "width": 800,
+            "height": 800,
+            "zoom": {
+              "ratio": .8,
+              "top": 143, 
+              "left": 236
+              }
+          },
+          {
+            "name": "ship",
+            "path": "images/ship/",
+            "images": ['000_gt.png','000_ours.png', '000_mip.png'],
+            "width": 800,
+            "height": 800,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 443, 
+              "left": 336
+              }
+          },
+        ]
+      }
+      window.app = app;
+    </script>
+	<script src="../assets/scripts/compare_template.js"></script>
+    <script src="../assets/scripts/compare_app.js"></script>
+  </head>
+  <body>
+  </body>
+</html>

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Comparsion</title>
+    <link rel="stylesheet" href="../assets/scripts/bulma.min.css">
+    <link rel="stylesheet" href="../assets/scripts/compare_app.css">
+    <script>
+      var app = {
+        "name": "Shiny",
+        "owner": "NeX's",
+        "zoombox": {
+          "desktop": {"size": '150px', "scale": "1.5"},
+          "tablet": {"size": '100px', "scale": "1.0"},
+          "phone": {"size": '150px', "scale": "1.5"}
+        },
+        "methods": ['Ground Truth','Ours', 'Nex',],
+        "scenes": [
+          {
+            "name": "Tools",
+            "path": "images/tools/",
+            "images": ['000_gt.png','000_ours.png', '000_nex.png',],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 313, 
+              "left": 626
+              }
+          },
+          {
+            "name": "CD",
+            "path": "images/cd/",
+            "images": ['000_gt.png','000_ours.png', '000_nex.png',],
+            "width": 1008,
+            "height": 567,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 260, 
+              "left": 240
+              }
+          },
+          {
+            "name": "Lab",
+            "path": "images/lab/",
+            "images": ['032_gt.png','032_ours.png', '032_nex.png',],
+            "width": 1008,
+            "height": 567,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 173, 
+              "left": 356
+              }
+          },
+          {
+            "name": "crest",
+            "path": "images/crest/",
+            "images": ['008_gt.png','008_ours.png', '008_nex.png',],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 303, 
+              "left": 756
+              }
+          },
+          {
+            "name": "food",
+            "path": "images/food/",
+            "images": ['gt.png','ours.png', 'nex.png'],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 493, 
+              "left": 216
+              }
+          },
+          {
+            "name": "giants",
+            "path": "images/giants/",
+            "images": ['000_gt.png','000_ours.png', '000_nex.png',],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 393, 
+              "left": 486
+              }
+          },
+          {
+            "name": "pasta",
+            "path": "images/pasta/",
+            "images": ['000_gt.png','000_ours.png', '000_nex.png',],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 103, 
+              "left": 456
+              }
+          },
+
+          {
+            "name": "seasoning",
+            "path": "images/seasoning/",
+            "images": ['008_gt.png','008_ours.png', '008_nex.png',],
+            "width": 1008,
+            "height": 756,
+            "zoom": {
+              "ratio": 1.0,
+              "top": 453, 
+              "left": 506
+              }
+          },
+        ]
+      }
+      window.app = app;
+    </script>
+	<script src="../assets/scripts/compare_template.js"></script>
+    <script src="../assets/scripts/compare_app.js"></script>
+  </head>
+  <body>
+  </body>
+</html>
