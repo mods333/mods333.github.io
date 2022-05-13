@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-I am a PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly interset with structure prediction problem in computer vision and graph neural networks.
+I am a PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly intersect with structured representation learning and neural rendering.
 
 # Publications
 
@@ -30,9 +30,9 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 # Work Experience
 **[Google Research](https://ai.google/research/)** | New York, NY
-* (05/2021 - Current) <strong>Research Intern / Student Researcher</strong>
+* (05/2021 - 03/2022) <strong>Research Intern / Student Researcher</strong>
   * Host: [Carlos Esteves](https://machc.github.io/) and [Ameesh Makadia](http://www.ameeshmakadia.com/)
-  * Working on a new neural rendering model.
+  * Worked on light field based neural rendering models.
 
 **[Amazon](https://www.amazon.com/)** | Seattle, WA
 * (05/2020 - 08/2020) <strong>Applied Scientist Intern</strong>
