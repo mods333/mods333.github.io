@@ -10,6 +10,7 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 * **Light Field Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Estevez, L. Sigal and A. Makadia\
   <span style="color:blue">[Oral]</span> Conference on Computer Vision and Pattern Recognition(CVPR), 2022 \
+  (<span style="color:red">Top 33 finalist for best paper award</span>) \
   [Paper](https://arxiv.org/pdf/2112.09687.pdf) / [Code](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) / [Project Page](https://light-field-neural-rendering.github.io/)
   
 * **Energy-Based Learning for Scene Graph Generation**   \
