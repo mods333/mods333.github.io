@@ -9,7 +9,7 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 * **Generalizable Patch-Based Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
-  To appear in ECCV 2022 
+  To appear as oral in ECCV 2022 
  
 * **Light Field Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
@@ -34,10 +34,16 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
   [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Suhail_Mixture-Kernel_Graph_Attention_Network_for_Situation_Recognition_ICCV_2019_paper.pdf) / [Blog](https://medium.com/@msuhail153/mixture-kernel-graph-attention-networks-for-situation-recognition-7ade50fd446)
 
 # Work Experience
+**[Google Research](https://ai.google/research/)** | Cambrdige, MA
+* (05/2022 - Current) <strong>Research Intern / Student Researcher</strong>
+  * Host: [Erika Lu](https://erikalu.com/) and [Forrester Cole](https://people.csail.mit.edu/fcole/)
+  * Working on a novel neural rendering method.
+ 
 **[Google Research](https://ai.google/research/)** | New York, NY
 * (05/2021 - 03/2022) <strong>Research Intern / Student Researcher</strong>
   * Host: [Carlos Esteves](https://machc.github.io/) and [Ameesh Makadia](http://www.ameeshmakadia.com/)
   * Worked on light field based neural rendering models.
+  * Works accepted to CVPR 2022 and ECCV 2022.
 
 **[Amazon](https://www.amazon.com/)** | Seattle, WA
 * (05/2020 - 08/2020) <strong>Applied Scientist Intern</strong>
