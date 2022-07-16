@@ -9,7 +9,8 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 * **Generalizable Patch-Based Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
-  To appear as oral in ECCV 2022 
+  To appear as oral in ECCV 2022 \
+  [Code](https://github.com/google-research/google-research/tree/master/gen_patch_neural_rendering)
  
 * **Light Field Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
