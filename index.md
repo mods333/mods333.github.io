@@ -10,7 +10,7 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 * **Generalizable Patch-Based Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
   To appear as oral in ECCV 2022 \
-  [Code](https://github.com/google-research/google-research/tree/master/gen_patch_neural_rendering)
+  [Project Page](https://mohammedsuhail.net/gen_patch_neural_rendering/) / [Code](https://github.com/google-research/google-research/tree/master/gen_patch_neural_rendering)
  
 * **Light Field Neural Rendering** (<span style="color:green">*New!*</span>) \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
@@ -56,7 +56,6 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 # Blog Posts
 * [Understanding Variational Inference](https://medium.com/@msuhail153/understanding-variational-inference-ae119f9bc3ed)
 * [Understanding Metropolis Hasting Algorithm](https://medium.com/@msuhail153/understanding-metropolis-hasting-algorithm-aabcb5e5ffe7)
-* [Test](./gen_patch_neural_rendering/index.html)
 * Sampling Methods
   * [Introduction to sampling](https://medium.com/@msuhail153/an-introduction-to-sampling-from-distributions-53006759dcc4)
   * [Sampling From a Gaussian](https://medium.com/@msuhail153/sampling-from-a-gaussian-box-muller-method-e6adcf9a4a6a)
