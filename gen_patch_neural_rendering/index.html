@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:image" content="https://mods333.github.io/gen_patch_neural_rendering/img/gpnr_titlecard.jpg">
+    <meta property="og:image" content="https://mods333.github.io/gen_patch_neural_rendering/img/model_animation.gif">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/codemirror.min.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -136,7 +137,8 @@ Neural rendering has received tremendous attention since the advent of Neural Ra
             </div>
         </div>
 
-        <image src="img/gpnr_model.png" class="img-responsive" alt="overview" width="60%" style="max-height: 450px;margin:auto;">
+        <image src="img/model_animation.gif" class="img-responsive" alt="overview" width="60%" style="max-height: 450px;margin:auto;">
+        <!--<image src="img/gpnr_model.png" class="img-responsive" alt="overview" width="60%" style="max-height: 450px;margin:auto;"> -->
 
         <!-- <div class="row">
             <div class="col-md-8 col-md-offset-2">
@@ -150,6 +152,26 @@ Neural rendering has received tremendous attention since the advent of Neural Ra
                 </div>
             </div>
         </div> -->
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Renderings
+                </h3>
+                <video id="v0" width="100%" autoplay loop muted controls>
+                  <source src="img/combined_results.mp4" type="video/mp4" />
+                </video>
+						</div>
+            <div class="col-md-8 col-md-offset-2">
+		<p class="text-center">
+		Rendered images on unseen scenes without finetuing.
+		</p>
+		<p class="text-center">
+		Results were generated using a pre-trained model with the abouve scenes remove from train set.
+		</p>
+
+	    </div>
+        </div>
 
             
         <div class="row">
