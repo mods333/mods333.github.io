@@ -40,7 +40,7 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
 
 # Work Experience
 **[Google Research](https://ai.google/research/)** | Cambrdige, MA
-* (05/2022 - Current) <strong>Research Intern / Student Researcher</strong>
+* (05/2022 - 03/2023) <strong>Research Intern / Student Researcher</strong>
   * Host: [Erika Lu](https://erikalu.com/) and [Forrester Cole](https://people.csail.mit.edu/fcole/)
   * Working on a novel neural rendering method.
  
