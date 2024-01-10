@@ -6,12 +6,12 @@ layout: default
 I am a PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly intersect with structured representation learning and neural rendering.
 
 # Publications
-* **Associating Objects and their Effects in Unconstrained Monocular Video** (<span style="color:green">*New!*</span>) \
+* **Associating Objects and their Effects in Unconstrained Monocular Video** \
   __M. Suhail__,  E. Lu, Z. Li, N. Snavely, L. Sigal and F. Cole \
   Accepted to CVPR 2023 \
-  Details coming soon.
+  [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Suhail_Omnimatte3D_Associating_Objects_and_Their_Effects_in_Unconstrained_Monocular_Video_CVPR_2023_paper.pdf) / [Code](https://github.com/google-research/google-research/tree/master/omnimatte3D)
 
-* **Generalizable Patch-Based Neural Rendering** (<span style="color:green">*New!*</span>) \
+* **Generalizable Patch-Based Neural Rendering** \
   __M. Suhail__, C. Esteves, L. Sigal and A. Makadia\
   <span style="color:blue">[Oral]</span> European Conference on Computer Vision(ECCV) 2022 \
   [Project Page](https://mohammedsuhail.net/gen_patch_neural_rendering/) / [Code](https://github.com/google-research/google-research/tree/master/gen_patch_neural_rendering) / [Video](https://www.youtube.com/watch?v=mPtpABb3yQo)
