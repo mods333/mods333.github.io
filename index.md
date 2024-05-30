@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-I am a PhD student at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly intersect with structured representation learning and neural rendering.
+I am a Research Scientist at Google. I got my PhD at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly intersect with structured representation learning and neural rendering.
 
 # Publications
 * **Associating Objects and their Effects in Unconstrained Monocular Video** \
@@ -39,6 +39,9 @@ I am a PhD student at University of British Columbia advised by Prof. [Leonid Si
   [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Suhail_Mixture-Kernel_Graph_Attention_Network_for_Situation_Recognition_ICCV_2019_paper.pdf) / [Blog](https://medium.com/@msuhail153/mixture-kernel-graph-attention-networks-for-situation-recognition-7ade50fd446)
 
 # Work Experience
+**[Google Research](https://ai.google/research/)** | Toronto, ON
+* (06/2023 - Now) <strong>Research Scientist</strong>
+
 **[Google Research](https://ai.google/research/)** | Cambrdige, MA
 * (05/2022 - 03/2023) <strong>Research Intern / Student Researcher</strong>
   * Host: [Erika Lu](https://erikalu.com/) and [Forrester Cole](https://people.csail.mit.edu/fcole/)
