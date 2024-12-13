@@ -14,7 +14,7 @@ I am a Research Scientist at Google. I got my PhD at University of British Colum
   [Arxiv](https://arxiv.org/abs/2412.09607)
 * **Associating Objects and their Effects in Unconstrained Monocular Video** \
   __M. Suhail__,  E. Lu, Z. Li, N. Snavely, L. Sigal and F. Cole \
-  Accepted to CVPR 2023 \
+  Conference on Computer Vision and Pattern Recognition(CVPR), 2023 \
   [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Suhail_Omnimatte3D_Associating_Objects_and_Their_Effects_in_Unconstrained_Monocular_Video_CVPR_2023_paper.pdf) / [Code](https://github.com/google-research/google-research/tree/master/omnimatte3D)
 
 * **Generalizable Patch-Based Neural Rendering** \
