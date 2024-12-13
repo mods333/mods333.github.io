@@ -9,9 +9,11 @@ I am a Research Scientist at Google. I got my PhD at University of British Colum
 * **Four-Plane Factorized Video Autoencoders** \
   __M. Suhail__, C. Esteves, L. Sigal, A. Makadia \
   [Arxiv](https://arxiv.org/abs/2412.04452)
+  
 * **Spectral Image Tokenizer** \
   C. Esteves, __M. Suhail__, A. Makadia \
   [Arxiv](https://arxiv.org/abs/2412.09607)
+  
 * **Associating Objects and their Effects in Unconstrained Monocular Video** \
   __M. Suhail__,  E. Lu, Z. Li, N. Snavely, L. Sigal and F. Cole \
   Conference on Computer Vision and Pattern Recognition(CVPR), 2023 \
