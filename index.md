@@ -13,6 +13,9 @@ I am a Research Scientist at Google. I got my PhD at University of British Colum
 * **Spectral Image Tokenizer** \
   C. Esteves, __M. Suhail__, A. Makadia \
   [Arxiv](https://arxiv.org/abs/2412.09607)
+* **Direct Motion Models for Assessing Generated Videos** \
+  K. Allen, C. Doersch, G. Zhou, __M. Suhail__, D. Driess, I. Rocco, Y. Rubanova, T. Kipf, M. Sajjadi, K. Murphy, J. Carreira, S. Steenkiste \
+  [Project Page](https://trajan-paper.github.io/)
   
 * **Associating Objects and their Effects in Unconstrained Monocular Video** \
   __M. Suhail__,  E. Lu, Z. Li, N. Snavely, L. Sigal and F. Cole \
