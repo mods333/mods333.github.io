@@ -3,21 +3,23 @@ layout: default
 ---
 # About Me
 
-I am a Research Scientist at Google. I got my PhD at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati. My research interest mostly intersect with structured representation learning and neural rendering.
+I am a Senior ML Researcher at RBC-Borealis. Previously I was a Research Scientist at Google. I got my PhD at University of British Columbia advised by Prof. [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). Before that I did my Master in Computer Science at UBC and Bachelors in Electrical Engineering at Indian Institute of Technology Guwahati.
 
 # Publications
-* **Four-Plane Factorized Video Autoencoders** \
-  __M. Suhail__, C. Esteves, L. Sigal, A. Makadia \
-  [Arxiv](https://arxiv.org/abs/2412.04452)
   
 * **Spectral Image Tokenizer** \
   C. Esteves, __M. Suhail__, A. Makadia \
-  [Arxiv](https://arxiv.org/abs/2412.09607)
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2025 \
+  [Paper](https://arxiv.org/abs/2412.09607)
 
 * **Direct Motion Models for Assessing Generated Videos** \
   K. Allen, C. Doersch, G. Zhou, __M. Suhail__, D. Driess, I. Rocco, Y. Rubanova, T. Kipf, M. Sajjadi, K. Murphy, J. Carreira, S. Steenkiste \
   International Conference on Machine Learning(ICML), 2025 \
   [Project Page](https://trajan-paper.github.io/)
+
+* **Four-Plane Factorized Video Autoencoders** \
+  __M. Suhail__, C. Esteves, L. Sigal, A. Makadia \
+  [Arxiv](https://arxiv.org/abs/2412.04452)
   
 * **Associating Objects and their Effects in Unconstrained Monocular Video** \
   __M. Suhail__,  E. Lu, Z. Li, N. Snavely, L. Sigal and F. Cole \
@@ -51,9 +53,13 @@ I am a Research Scientist at Google. I got my PhD at University of British Colum
   IEEE/CVF International Conference on Computer Vision (ICCV), 2019.\
   [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Suhail_Mixture-Kernel_Graph_Attention_Network_for_Situation_Recognition_ICCV_2019_paper.pdf) / [Blog](https://medium.com/@msuhail153/mixture-kernel-graph-attention-networks-for-situation-recognition-7ade50fd446)
 
+
 # Work Experience
+**[RBC Borealis](https://rbcborealis.com/)** | Toronto, ON
+* (06/2025 - Now) <strong>Senior ML Researcher</strong>
+
 **[Google Research](https://ai.google/research/)** | Toronto, ON
-* (06/2023 - Now) <strong>Research Scientist</strong>
+* (06/2023 - 06/2025) <strong>Research Scientist</strong>
 
 **[Google Research](https://ai.google/research/)** | Cambrdige, MA
 * (05/2022 - 03/2023) <strong>Research Intern / Student Researcher</strong>
